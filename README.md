@@ -1,3 +1,3 @@
 # Thermodynamic-Cycles-and-performance-for-MATBG-under-tunable-external-magnetic-field
 
-The saved spectrum files can be directly used to obtain the plots, or can directly diagonalize hamiltonian for differnt parameter condition for further analysis. 
+The saved spectrum files can be used directly to obtain plots or diagonalize the Hamiltonian for different parameter conditions for further analysis. 
